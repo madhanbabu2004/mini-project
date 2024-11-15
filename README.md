@@ -127,6 +127,15 @@ print("Model accuracy after feature selection:", accuracy)
 print("Model precision after feature selection:", precision)
 print("Model recall after feature selection:", recall)
 print("Model F1-score after feature selection:", f1)
+```
+## Output
 
+![Screenshot 2024-11-12 162912](https://github.com/user-attachments/assets/7e5ae128-2375-464d-a903-8ec4de138e0b)
+![Screenshot 2024-11-13 100721](https://github.com/user-attachments/assets/b2b450fa-ed3b-4634-865a-bd8740b50c41)
+![Screenshot 2024-10-23 103047](https://github.com/user-attachments/assets/29b19f1e-4711-41b2-8d06-8030d861c554)
+![Screenshot 2024-10-23 103101](https://github.com/user-attachments/assets/2da6b334-d894-4759-a506-8a0693f2f1b3)
+![Screenshot 2024-10-23 103143](https://github.com/user-attachments/assets/98a32001-991a-4ca0-976d-2fb86ca0bb2b)
+![Screenshot 2024-10-23 103425](https://github.com/user-attachments/assets/20f94160-7243-4909-89bf-1ce855b7c782)
+![Screenshot 2024-10-23 104601](https://github.com/user-attachments/assets/6ee01544-9599-4c8b-92c9-4a63eedb3cd0)
 
                          
